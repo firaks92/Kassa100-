@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.tools/
+*.log
+build-out.txt
+tsc-out.txt
+tsconfig.tsbuildinfo
+.env
+.env.*
